@@ -1,0 +1,6 @@
+The Wigglesort program has running time O(n), thus it is linear with regards to time.
+There are two lines that run exactly one: O(2) constant 
+There is a for loop with 9 lines that can be repeated up to n times: (9n) 
+
+The Wigglesort program takes up O(1), thus it is constant with regards to space.
+There are exactly two variable declarations; temp and i: O(2) linear.
