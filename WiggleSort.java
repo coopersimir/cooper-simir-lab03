@@ -38,7 +38,7 @@ public class Lab03 {
 
 	public static void main(String[] args) {
 		int[]array = {1,3,2,2,3,1};
-		int[] array2 = {1,5,1,1,6,4};
+		int[]array2 = {1,5,1,1,6,4};
 		System.out.println(Arrays.toString(WiggleSort(array)));
 		System.out.println(Arrays.toString(WiggleSort(array2)));
 
